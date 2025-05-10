@@ -1,0 +1,21 @@
+sales,profit_margin,customer_age,items_purchased,customer_rating,product_category,payment_method,customer_type,satisfaction,store_location,purchase_date,delivery_date,transaction_id,customer_id,delivery_time,total_amount,is_weekend
+5842.67,0.1823,54,9,5,Home Goods,Credit Card,Returning,Very High,East,1/18/2023,1/22/2023,T1018,42,4,6908.37,FALSE
+6524.31,0.1934,NaN,7,3,Books,Debit Card,New,Medium,North,6/21/2023,6/25/2023,T1171,13,4,7786.13,FALSE
+4271.34,NaN,42,2,1,Electronics,Credit Card,Returning,Very Low,South,1/1/2023,1/5/2023,T1000,67,4,NaN,FALSE
+3497.2,0.1471,52,4,3,Food,Cash,New,Medium,West,1/5/2023,1/10/2023,T1004,94,5,4011.12,FALSE
+3848.33,0.1962,66,3,4,Books,Credit Card,Loyalty Program,High,East,1/9/2023,1/13/2023,T1008,38,4,4604.19,FALSE
+3073.4,NaN,18,6,NaN,Clothing,Debit Card,Returning,Very High,Central,1/8/2023,1/14/2023,T1007,53,6,NaN,TRUE
+8196.19,0.0884,35,2,2,electronics,PayPal,New,Low,North,1/7/2023,1/9/2023,T1006,91,2,8920.2,TRUE
+5243.32,0.1746,39,8,4,Food,Credit Card,Returning,High,West,3/11/2023,3/18/2023,T1070,72,7,6159.19,TRUE
+2937.55,0.1347,27,2,3,Home Goods,paypal,Returning,Medium,South,1/10/2023,1/17/2023,T1009,86,7,3333.56,FALSE
+25432.12,0.2129,61,5,5,Clothing,Debit Card,Loyalty Program,Very High,East,7/24/2023,7/28/2023,T1204,28,4,30846.91,FALSE
+4647.32,0.8,99,7,2,Clothng,credit card,Returning,Low,North,1/6/2023,1/12/2023,T1005,23,6,8365.18,FALSE
+5088.76,0.1253,19,9,2,Home Goods,PayPal,New,Low,West,1/2/2023,NaN,T1001,54,NaN,5726.28,FALSE
+3891.45,0.0911,43,2,NaN,Electronics,Cash,Loyalty Program,NaN,Central,11/18/2023,11/23/2023,T1321,45,5,4245.85,TRUE
+6157.11,0.1738,33,6,4,Food,Debit Card,New,High,East,12/7/2023,12/10/2023,T1340,79,3,7227.21,FALSE
+4832.38,0.18,45,3,3,Books,Credit Card,Returning,Medium,North,1/3/2023,1/8/2023,T1002,16,5,5702.21,FALSE
+7285.97,0.0712,64,1,1,Electronics,Debit Card,Returning,Very Low,South,1/4/2023,1/9/2023,T1003,59,5,7805.35,FALSE
+4381.59,0.1588,50,5,3,Clothing,Cash,New,Medium,West,2/15/2023,2/21/2023,T1045,88,6,5077.61,FALSE
+5663.93,0.1307,22,7,2,Home Goods,Credit Card,Returning,Low,East,5/21/2023,5/28/2023,T1140,37,7,6403.98,FALSE
+29876.45,0.0559,99,3,1,Electronics,PayPal,New,Very Low,Central,8/9/2023,8/12/2023,T1219,75,3,31547.57,FALSE
+3521.67,NaN,31,8,5,NaN,Credit Card,Loyalty Program,Very High,North,9/12/2023,9/15/2023,T1253,44,3,NaN,FALSE
